@@ -1,7 +1,11 @@
 Name : Kritsika Manelli
+
 Registration number : 25MEI10092
+
 Branch : Integrated MTech Cyber Security and Forensic Digitals
+
 Course code : CSD0001
+
 Course : Digital Literacy 
 
 PROJECT OVERVIEW: 
