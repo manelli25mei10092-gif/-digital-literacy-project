@@ -1,4 +1,4 @@
-DIGITAL LITERACY PROJECT 
+**DIGITAL LITERACY PROJECT **
 
 Name : Kritsika Manelli
 
